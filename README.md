@@ -21,7 +21,7 @@ This project focuses on investigating the impact of architecture and hyperparame
 * **LSTM (Long Short-Term Memory):** Optimized for sequential data modeling.
 * **CNN (Convolutional Neural Networks):** Utilizing convolutional layers for feature extraction from sequences and patterns.
 
-## 🛠 Methodology and Optimization
+## Methodology and Optimization
 The project involved a series of experiments regarding:
 * **Optimizers:** Adam, SGD, LBFGS, RMSprop, Nadam.
 * **Hyperparameters:** Learning Rate (LR), Momentum, number of layers, and neurons.
